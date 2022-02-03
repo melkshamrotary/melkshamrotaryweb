@@ -1,4 +1,4 @@
-## The home of Melksham Rotary
+# The home of Melksham Rotary
 
 - View our [event diary/calendar](https://www.melkshamrotary.org/event-calendar)
 - View our [2021/22 Club Officers](https://www.melkshamrotary.org/club-officers)
@@ -11,3 +11,9 @@
 <div class="fb-page" data-adapt-container-width="true" data-height="" data-hide-cover="true" data-href="https://www.facebook.com/MelkshamRotary/" data-show-facepile="false" data-small-header="false" data-tabs="timeline" data-width="750">
 <blockquote cite="https://www.facebook.com/MelkshamRotary/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/MelkshamRotary/">Melksham Rotary Club</a></blockquote>
 </div>
+
+
+## OTHER ROTARY SITES:
+- [Regional Rotary (District 1200)](http://www.rotary-ribi.org/districts/homepage.php?DistrictNo=1200)
+- [Rotary International in Great Britain & Ireland](http://www.rotarygbi.org/)
+- [Rotary International](https://www.rotary.org/)
