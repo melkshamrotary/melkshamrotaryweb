@@ -1,6 +1,7 @@
 ## The home of Melksham Rotary
 
-- View our [event diary/calendar](https://www.melkshamrotary.org/event-calendar).
+- View our [event diary/calendar](https://www.melkshamrotary.org/event-calendar)
+- View our [2021/22 Club Officers](https://www.melkshamrotary.org/club-officers)
 - View our [twitter feed](https://www.twitter.com/melkshamrotary)
 
 ## Facebook Live Feed
