@@ -7,7 +7,7 @@ The Mid Wessex Hub operates a direct membership route where meetings are held us
 More information on he Mid Wessex Hub can be found at: https://rotarywithoutborders.org.uk/
 
 - View our [event diary/calendar](https://www.melkshamrotary.org/event-calendar)
-- View our [2021/22 Club Officers](https://www.melkshamrotary.org/club-officers)
+- View our [Club Officers](https://www.melkshamrotary.org/club-officers)
 
 ## OTHER ROTARY SITES:
 - [Regional Rotary (District 1200)](http://www.rotary-ribi.org/districts/homepage.php?DistrictNo=1200)
