@@ -4,7 +4,7 @@ Alternative Rotary Clubs are available in the locality of Melksham as part of [D
 
 The Mid Wessex Hub operates a direct membership route where meetings are held using technology rather than meeting in a specific location. The Mid Wessex Hub has taken on the charter issued to Melksham Rotary and would welcome new members. 
 
-More information on he Mid Wessex Hub can be found at: https://rotarywithoutborders.org.uk/
+More information on he Mid Wessex Hub can be found at: [https://rotarywithoutborders.org.uk/](https://rotarywithoutborders.org.uk/)
 
 - View our [event diary/calendar](https://www.melkshamrotary.org/event-calendar)
 - View our [Club Officers](https://www.melkshamrotary.org/club-officers)
