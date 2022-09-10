@@ -5,5 +5,5 @@
 
 Melksham Rotary Club ceased operting in July 2022.
 
-Please contact members of District 1200 if you wish to get in touch with a Rotary club in the locality of Melksham: https://www.rotary-ribi.org/districts/contact.php?DistrictNo=1200
+Please contact members of District 1200 if you wish to get in touch with a Rotary club in the locality of Melksham: [https://www.rotary-ribi.org/districts/contact.php?DistrictNo=1200](https://www.rotary-ribi.org/districts/contact.php?DistrictNo=1200)
 
