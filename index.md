@@ -1,17 +1,13 @@
-# The home of Melksham Rotary
+# Melksham Rotary Club ceased operating in July 2022
+
+Alternative Rotary Clubs are available in the locality of Melksham as part of [District 1200](https://www.rotary-ribi.org/districts/clubs.php?DistrictNo=1200)
+
+The Mid Wessex Hub operates a direct membership route where meetings are held using technology rather than meeting in a specific location. The Mid Wessex Hub has taken on the charter issued to Melksham Rotary and would welcome new members. 
+
+More information on he Mid Wessex Hub can be found at: https://rotarywithoutborders.org.uk/
 
 - View our [event diary/calendar](https://www.melkshamrotary.org/event-calendar)
 - View our [2021/22 Club Officers](https://www.melkshamrotary.org/club-officers)
-- View our [twitter feed](https://www.twitter.com/melkshamrotary)
-
-## Facebook Live Feed
-<div id="fb-root">&nbsp;</div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v4.0"></script>
-
-<div class="fb-page" data-adapt-container-width="true" data-height="" data-hide-cover="true" data-href="https://www.facebook.com/MelkshamRotary/" data-show-facepile="false" data-small-header="false" data-tabs="timeline" data-width="750">
-<blockquote cite="https://www.facebook.com/MelkshamRotary/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/MelkshamRotary/">Melksham Rotary Club</a></blockquote>
-</div>
-
 
 ## OTHER ROTARY SITES:
 - [Regional Rotary (District 1200)](http://www.rotary-ribi.org/districts/homepage.php?DistrictNo=1200)
